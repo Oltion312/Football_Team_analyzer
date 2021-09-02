@@ -1,1 +1,1 @@
-# Football_Team_analyzer
+What i did in the past week in ericsson was working with python, python is an programm in ubuntu that helped me analyze how many wins, loses and draws some Premier League Teams have won as a away team in the past 4 years. It  was pretty awsome how how the computer did things you command. For exaple if i wanted to install a program named "pip" i had to write this: sudo apt install pip. 
